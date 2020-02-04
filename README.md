@@ -1,6 +1,6 @@
 # MNIST Number Classifier
 
-Forward-feeding neural network that classifies written numbers with ~95% accuracy using PyTorch
+Forward-feeding neural network that classifies written numbers with ~95% accuracy using PyTorch.
 
 ## About
 
